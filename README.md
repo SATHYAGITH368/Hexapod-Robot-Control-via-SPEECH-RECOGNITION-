@@ -1,4 +1,5 @@
 # Hexapod-Robot-Control-via-SPEECH-RECOGNITION-
+This project demonstrates a voice-controlled hexapod robot using Voix for voice recognition and socket programming for communication. The system consists of two main components: a server (test_microphone.py) and a client (speechcontrol.py). The server processes voice commands and sends them to the robot controller, which executes the corresponding actions.
 
 ## ROS
 ROS (Robot Operating System) is an open-source framework designed to simplify the development of complex robotic systems. It provides a collection of tools, libraries, and conventions that facilitate tasks such as hardware abstraction, device drivers, communication between processes, and package management.
@@ -72,7 +73,7 @@ Run the Client:
 Execute speech_control.py on the hexapod robot to start the client:
 bash
 Copy code
-python speech_control.py
+python3 speechcontrol.py
 ## Communication Flow
 Voice Command:
 
@@ -82,3 +83,11 @@ Command Execution:
 
 speech_control.py receives the command and translates it into robot movements.
 The hexapod robot performs the specified action.
+
+## Additional Resources
+Voix Documentation
+Python Socket Programming
+Hexapod Robot Control
+
+## HEXAPOD
+![PHOTO-2024-06-16-19-34-35](https://github.com/SATHYAGITH368/Hexapod-Robot-Control-via-SPEECH-RECOGNITION-/assets/142714885/65e68d69-703e-4735-94e3-37eb2a4a65f1)
