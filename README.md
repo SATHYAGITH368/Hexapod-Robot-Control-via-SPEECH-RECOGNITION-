@@ -91,3 +91,4 @@ Hexapod Robot Control
 
 ## HEXAPOD
 ![PHOTO-2024-06-16-19-34-35](https://github.com/SATHYAGITH368/Hexapod-Robot-Control-via-SPEECH-RECOGNITION-/assets/142714885/65e68d69-703e-4735-94e3-37eb2a4a65f1)
+![PHOTO-2024-06-16-21-39-04](https://github.com/SATHYAGITH368/Hexapod-Robot-Control-via-SPEECH-RECOGNITION-/assets/142714885/100508a0-e49d-44f7-8fea-173f74052644)
